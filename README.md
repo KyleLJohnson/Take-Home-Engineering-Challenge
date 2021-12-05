@@ -2,7 +2,7 @@
 Take-Home-Engineering-Challenge
 
 <h1>The Problem</h1>
-<hr/>
+
 Getting around large cities can be quite a hassle, and New York City is no exception. One thing that helps, is being able to predict how long a trip might take and how much that trip might cost. Luckily, NYC provides public data about transportation which includes all of the metrics we need!
 
 Your assignment, is to help us quickly look at transportation fare data for tips between different boroughs in NYC so that when we travel there, it is easier for us to get around.
@@ -25,7 +25,7 @@ Feel free to tackle this problem in a way that demonstrates your expertise of an
 New York City transportation data is located <a href='https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page'>here</a>. A copy of the <a href='https://cseboulderinterview.blob.core.windows.net/triprecord/tripdata.zip'>Jan 2018 data</a> as well is located here.
 
 <h1>Instructions:</h1>
-<hr/>
+
 
 <ol>
   <li>Clone the repo</li>
