@@ -40,8 +40,9 @@ New York City transportation data is located <a href='https://www1.nyc.gov/site/
   I knew using Python that the application wouldn't be scalable and the most performant. I just wanted to get a proof of concept working in the time constraint.
   
   <h2>If I Had More Time</h2>
-  I would definitely look into making this more scalable and efficient. There has to be a way this can run in Azure. I only made it work with Jan 2018 data. What about other months? Create web apis to get the data
-  I was not able to make the data filterable by datatime. I would make that work. 
+  <p>I would definitely look into making this more scalable and efficient. There has to be a way this can run in Azure. </p>
+  <p>I only made it work with Jan 2018 data. What about other months? Create web apis to get the data. </p>
+   <p>I was not able to make the data filterable by datatime. I would make that work. </p>
   
   So better UI, scalable and fast data analysis. I think the answer to all my wants exist somewhere in Azure, I just needed more time.
   
