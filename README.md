@@ -34,7 +34,7 @@ New York City transportation data is located <a href='https://www1.nyc.gov/site/
   <h1>Thinking Out Loud</h1>
   
   <h2>Rationale Behind Technical Choice</h2>
-  When I first saw the large data files I immediately thought of Python. Due to the time constraint with Python along with a few modules, I could get something working outputting quickly.
+  When I first saw the large data files I immediately thought of Python. Due to the time constraint with Python along with a few modules, I could get something working outputting quickly. <strong>I'm not a Data Scientist</strong> but Python is a great tool for this sort of problem and I have some knowledge of Pandas (Python Data Analysis Library)
   
   I converted one of the taxi zones file to a CSV to make this work.
   
