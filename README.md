@@ -44,6 +44,8 @@ New York City transportation data is located <a href='https://www1.nyc.gov/site/
   <p>I only made it work with Jan 2018 data. What about other months? Create web apis to get the data.</p>
   <p>I was not able to make the data filterable by datatime. I would make that work.</p>
   
-  So better UI, scalable and fast data analysis. I think the answer to all my wants exist somewhere in Azure, I just needed more time. I don't like when an application design suffers due to lack of technical knowledge of the right tools.
+  So better UI, scalable and fast data analysis. I think the answer to all my wants exist somewhere in Azure, 
+  
+  This might also work as a Power App and a Databricks connector. I wish I had more time!
   
  
