@@ -27,7 +27,7 @@ New York City transportation data is located <a href='https://www1.nyc.gov/site/
 <h1>Instructions:</h1>
 <ol>
   <li>Clone the repo</li>
-  <li>Download <a href='https://cseboulderinterview.blob.core.windows.net/triprecord/tripdata.zip'>Jan 2018 data</a> and extract them into the application folder</li>
+  <li>Download <a href='https://cseboulderinterview.blob.core.windows.net/triprecord/tripdata.zip'>Jan 2018 data</a> and extract them into the application folder</li>. The data CSV files need to be in the same folder as the Python file.
   <li>Run the application using Python.exe</li>
  </ol>
   
