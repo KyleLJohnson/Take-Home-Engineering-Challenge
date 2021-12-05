@@ -28,13 +28,13 @@ New York City transportation data is located <a href='https://www1.nyc.gov/site/
 <ol>
   <li>Clone the repo</li>
   <li>Download data files and extract them into the application folder</li>
-  <li>Run the application</li>
+  <li>Run the application using Python.exe</li>
  </ol>
   
   <h1>Thinking Out Loud</h1>
   
   <h2>Rationale Behind Technical Choice</h2>
-  When I first saw the large data files I immediately thought of Python. Due to the time constraint with Python along with a few modules, I could get something working quickly.
+  When I first saw the large data files I immediately thought of Python. Due to the time constraint with Python along with a few modules, I could get something working outputting quickly.
   
   <h2>Trade-Offs</h2>
   I knew using Python that the application wouldn't be scalable and the most performant. I just wanted to get a proof of concept working in the time constraint.
