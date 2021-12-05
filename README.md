@@ -45,7 +45,7 @@ New York City transportation data is located <a href='https://www1.nyc.gov/site/
   <p>I would definitely look into making this scalable and efficient. There has to be a way this can run in Azure. Azure Databricks?.</p>
   <p>I only made it work with Jan 2018 data. What about other months? Create web apis to get the data.</p>
   <p>I was not able to make the data filterable by datatime. I would make that work.</p>
-  
+  <p>I was going to add some visualization to it by plotting the fares in a chart by using Matplotlib</p>
   So better UI, scalable and fast data analysis. I think the answer to all my wants exist somewhere in Azure, 
   
   This might also work as a Power App and a Databricks connector. I wish I had more time!
