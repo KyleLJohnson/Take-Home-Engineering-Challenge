@@ -25,11 +25,24 @@ Feel free to tackle this problem in a way that demonstrates your expertise of an
 New York City transportation data is located <a href='https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page'>here</a>. A copy of the <a href='https://cseboulderinterview.blob.core.windows.net/triprecord/tripdata.zip'>Jan 2018 data</a> as well is located here.
 
 <h1>Instructions:</h1>
-
-
 <ol>
   <li>Clone the repo</li>
   <li>Download data files and extract them into the application folder</li>
   <li>Run the application</li>
  </ol>
   
+  <h1>Thinking Out Loud</h1>
+  
+  <h2>Rationale Behind Technical Choice</h2>
+  When I first saw the large data files I immediately thought of Python. Due to the time constraint with Python along with a few modules, I could get something working quickly.
+  
+  <h2>Trade-Offs</h2>
+  I knew using Python that the application wouldn't be scalable and the most performant. I just wanted to get a proof of concept working in the time constraint.
+  
+  <h2>If I Had More Time</h2>
+  I would definitely look into making this more scalable and efficient. There has to be a way this can run in Azure. I only made it work with Jan 2018 data. What about other months? Create web apis to get the data
+  I was not able to make the data filterable by datatime. I would make that work. 
+  
+  So better UI, scalable and fast data analysis. I think the answer to all my wants exist somewhere in Azure, I just needed more time.
+  
+ 
