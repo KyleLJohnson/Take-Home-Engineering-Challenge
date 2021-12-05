@@ -22,12 +22,12 @@ The only requirements for the assignment are:
 
 Feel free to tackle this problem in a way that demonstrates your expertise of an area -- or takes you out of your comfort zone. For example, if you build Web APIs by day and want to build a frontend to the problem or a completely different language instead, by all means go for it - learning is a core competency in our group. Let us know this context in your solution's documentation.
 
-New York City transportation data is located <a href='https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page'>here</a>. A copy of the <a href='https://cseboulderinterview.blob.core.windows.net/triprecord/tripdata.zip'>Jan 2018 data</a> as well is located here.
+New York City transportation data is located <a href='https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page'>here</a>. A copy of the <a href='https://cseboulderinterview.blob.core.windows.net/triprecord/tripdata.zip'>Jan 2018 data</a> as well is located href='https://cseboulderinterview.blob.core.windows.net/triprecord/tripdata.zip'>here</a>.
 
 <h1>Instructions:</h1>
 <ol>
   <li>Clone the repo</li>
-  <li>Download data files and extract them into the application folder</li>
+  <li>Download href='https://cseboulderinterview.blob.core.windows.net/triprecord/tripdata.zip'>Jan 2018 data</a> and extract them into the application folder</li>
   <li>Run the application using Python.exe</li>
  </ol>
   
